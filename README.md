@@ -35,9 +35,17 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An oration conteyning an expostulation as well with the Queenes Highnesse faithfull subiects for the
+
+1. To the right Noble and vertuous his singuler good Lady, the Lady Anne Countesse of Warwicke.
+
+1. To the Reader.
+
 #####Body#####
-An oration conteyning an expostulation as well with the Queenes Highnesse faithfull subiects for the
+
+1. An Oration. &c.
+
+1. A short speach of the same Maior vnto her Maiestie when he receyued her Highnes at Windesore and presented her with the Mace. the 10. day of August. 1586.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
